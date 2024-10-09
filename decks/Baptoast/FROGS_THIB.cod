@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Sunshower Druid"/>
+        <card number="2" name="Waterspout Warden"/>
+        <card number="4" name="Dour Port-Mage"/>
+        <card number="2" name="Lilysplash Mentor"/>
+        <card number="2" name="Long River Lurker"/>
+        <card number="4" name="Pond Prophet"/>
+        <card number="4" name="Three Tree Scribe"/>
+        <card number="2" name="Clement, the Worrywort"/>
+        <card number="2" name="Stickytongue Sentinel"/>
+        <card number="2" name="Valley Mightcaller"/>
+        <card number="2" name="Sugar Coat"/>
+        <card number="2" name="Polliwallop"/>
+        <card number="2" name="Lilypad Village"/>
+        <card number="2" name="Oakhollow Village"/>
+        <card number="2" name="Three Tree City"/>
+        <card number="10" name="Island"/>
+        <card number="8" name="Forest"/>
+        <card number="4" name="Splash Portal"/>
+    </zone>
+</cockatrice_deck>

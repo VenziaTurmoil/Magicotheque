@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Walking Ballista"/>
+        <card number="4" name="Ragavan, Nimble Pilferer"/>
+        <card number="4" name="Aloe Alchemist"/>
+        <card number="3" name="Fauna Shaman"/>
+        <card number="3" name="Inti, Seneschal of the Sun"/>
+        <card number="4" name="Vengevine"/>
+        <card number="3" name="Reality Smasher"/>
+        <card number="2" name="Boseiju, Who Endures"/>
+        <card number="2" name="Commercial District"/>
+        <card number="4" name="Cragcrown Pathway"/>
+        <card number="4" name="Forest"/>
+        <card number="4" name="Mountain"/>
+        <card number="4" name="Fire-Lit Thicket"/>
+        <card number="4" name="Smuggler's Surprise"/>
+        <card number="3" name="Six"/>
+        <card number="4" name="Malevolent Rumble"/>
+        <card number="4" name="Lightning Bolt"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Atarka's Command"/>
+        <card number="4" name="Destructive Revelry"/>
+        <card number="3" name="Dosan the Falling Leaf"/>
+        <card number="4" name="Endurance"/>
+    </zone>
+</cockatrice_deck>

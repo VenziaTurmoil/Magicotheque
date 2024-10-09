@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Delighted Halfling"/>
+        <card number="3" name="Hajar, Loyal Bodyguard"/>
+        <card number="3" name="Inti, Seneschal of the Sun"/>
+        <card number="3" name="Kodama of the West Tree"/>
+        <card number="3" name="Samut, Vizier of Naktamun"/>
+        <card number="2" name="Delina, Wild Mage"/>
+        <card number="4" name="Ragavan, Nimble Pilferer"/>
+        <card number="2" name="Anzrag, the Quake-Mole"/>
+        <card number="4" name="Bard Class"/>
+        <card number="4" name="Friendly Rivalry"/>
+        <card number="4" name="Cragcrown Pathway"/>
+        <card number="3" name="Fire-Lit Thicket"/>
+        <card number="2" name="Mountain"/>
+        <card number="3" name="Stomping Ground"/>
+        <card number="3" name="Boseiju, Who Endures"/>
+        <card number="3" name="Shinka, the Bloodsoaked Keep"/>
+        <card number="2" name="Forest"/>
+        <card number="3" name="Goro-Goro, Disciple of Ryusei"/>
+        <card number="3" name="Bristly Bill, Spine Sower"/>
+        <card number="2" name="Hugs, Grisly Guardian"/>
+    </zone>
+</cockatrice_deck>

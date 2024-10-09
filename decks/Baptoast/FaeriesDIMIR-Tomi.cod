@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Clearwater Pathway"/>
+        <card number="4" name="Island"/>
+        <card number="4" name="Secluded Glen"/>
+        <card number="4" name="Sunken Ruins"/>
+        <card number="6" name="Swamp"/>
+        <card number="2" name="Undercity Sewers"/>
+        <card number="4" name="Ego Drain"/>
+        <card number="4" name="Faerie Dreamthief"/>
+        <card number="4" name="Faerie Fencing"/>
+        <card number="3" name="Bitterblossom"/>
+        <card number="4" name="Likeness Looter"/>
+        <card number="3" name="Obyra, Dreaming Duelist"/>
+        <card number="3" name="Scion of Oona"/>
+        <card number="3" name="Talion's Messenger"/>
+        <card number="2" name="Rankle's Prank"/>
+        <card number="3" name="Talion, the Kindly Lord"/>
+        <card number="3" name="Maha, Its Feathers Night"/>
+        <card number="2" name="Season of Weaving"/>
+    </zone>
+</cockatrice_deck>

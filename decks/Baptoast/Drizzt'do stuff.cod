@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="11" name="Forest"/>
+        <card number="3" name="Nykthos, Shrine to Nyx"/>
+        <card number="4" name="Birds of Paradise"/>
+        <card number="4" name="Noble Hierarch"/>
+        <card number="4" name="Overprotect"/>
+        <card number="3" name="Elemental Bond"/>
+        <card number="3" name="Force of Savagery"/>
+        <card number="4" name="Leyline of Abundance"/>
+        <card number="3" name="Drizzt Do'Urden"/>
+        <card number="4" name="Deadbridge Goliath"/>
+        <card number="4" name="Kami of Whispered Hopes"/>
+        <card number="2" name="Surrak and Goreclaw"/>
+        <card number="3" name="Vivien, Arkbow Ranger"/>
+        <card number="4" name="Wooded Bastion"/>
+        <card number="2" name="Llanowar Elves"/>
+        <card number="2" name="Steel Leaf Champion"/>
+    </zone>
+</cockatrice_deck>

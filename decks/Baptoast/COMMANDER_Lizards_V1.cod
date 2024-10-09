@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Gev, Scaled Scorch"/>
+        <card number="1" name="Abrade"/>
+        <card number="1" name="Agate Instigator"/>
+        <card number="1" name="Agate-Blade Assassin"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Bedevil"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Blazemire Verge"/>
+        <card number="1" name="Blood Crypt"/>
+        <card number="1" name="Bojuka Bog"/>
+        <card number="1" name="Bontu's Monument"/>
+        <card number="1" name="Chandra's Pyreling"/>
+        <card number="1" name="Chaos Warp"/>
+        <card number="1" name="Cindering Cutthroat"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Dagger Caster"/>
+        <card number="1" name="Descent into Avernus"/>
+        <card number="1" name="Dragonskull Summit"/>
+        <card number="1" name="Echoing Assault"/>
+        <card number="1" name="End the Festivities"/>
+        <card number="1" name="Faithless Looting"/>
+        <card number="1" name="Feed the Swarm"/>
+        <card number="1" name="Fireglass Mentor"/>
+        <card number="1" name="Flamecache Gecko"/>
+        <card number="1" name="Foreboding Ruins"/>
+        <card number="1" name="Frilled Sparkshooter"/>
+        <card number="1" name="Grab the Prize"/>
+        <card number="1" name="Graywater's Fixer"/>
+        <card number="1" name="Haunted Ridge"/>
+        <card number="1" name="Hearthborn Battler"/>
+        <card number="1" name="Hellspur Posse Boss"/>
+        <card number="1" name="Herald's Horn"/>
+        <card number="1" name="Hired Claw"/>
+        <card number="1" name="Hissing Iguanar"/>
+        <card number="1" name="Immolation Shaman"/>
+        <card number="1" name="Impact Tremors"/>
+        <card number="1" name="Iridescent Vinelasher"/>
+        <card number="1" name="Jagged Barrens"/>
+        <card number="1" name="Kediss, Emberclaw Familiar"/>
+        <card number="1" name="Kindlespark Duo"/>
+        <card number="1" name="Laughing Jasper Flint"/>
+        <card number="1" name="Lightning Bolt"/>
+        <card number="1" name="Lizard Blades"/>
+        <card number="1" name="Luxury Suite"/>
+        <card number="1" name="Magebane Lizard"/>
+        <card number="11" name="Mountain"/>
+        <card number="1" name="Mudflat Village"/>
+        <card number="1" name="Ojer Axonil, Deepest Might"/>
+        <card number="1" name="Party Thrasher"/>
+        <card number="1" name="Patchwork Banner"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Persistent Constrictor"/>
+        <card number="1" name="Phyrexian Arena"/>
+        <card number="1" name="Rakdos Carnarium"/>
+        <card number="1" name="Rakdos Charm"/>
+        <card number="1" name="Rakdos Signet"/>
+        <card number="1" name="Ravine Raider"/>
+        <card number="1" name="Reptilian Recruiter"/>
+        <card number="1" name="Rockface Village"/>
+        <card number="1" name="Scales of Shale"/>
+        <card number="1" name="Scorch Spitter"/>
+        <card number="1" name="Sign in Blood"/>
+        <card number="1" name="Sinister Monolith"/>
+        <card number="1" name="Smoldering Marsh"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Spiked Corridor // Torture Pit"/>
+        <card number="1" name="Spitfire Lagac"/>
+        <card number="1" name="Steampath Charger"/>
+        <card number="1" name="Sulfurous Springs"/>
+        <card number="6" name="Swamp"/>
+        <card number="1" name="Tainted Peak"/>
+        <card number="1" name="Talisman of Indulgence"/>
+        <card number="1" name="Tectonic Hazard"/>
+        <card number="1" name="Terminate"/>
+        <card number="1" name="The Lord of Pain"/>
+        <card number="1" name="Theater of Horrors"/>
+        <card number="1" name="Thought-Stalker Warlock"/>
+        <card number="1" name="Three Tree City"/>
+        <card number="1" name="Uncivil Unrest"/>
+        <card number="1" name="Untimely Malfunction"/>
+        <card number="1" name="Valgavoth, Harrower of Souls"/>
+        <card number="1" name="Valley Flamecaller"/>
+        <card number="1" name="Vandalblast"/>
+        <card number="1" name="Vanquisher's Banner"/>
+        <card number="1" name="Withering Torment"/>
+    </zone>
+</cockatrice_deck>

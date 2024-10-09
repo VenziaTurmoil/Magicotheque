@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Argoth, Sanctum of Nature"/>
+        <card number="20" name="Forest"/>
+        <card number="4" name="Ashcoat Bear"/>
+        <card number="4" name="Ayula, Queen Among Bears"/>
+        <card number="2" name="Heroic Intervention"/>
+        <card number="4" name="Overprotect"/>
+        <card number="4" name="Elemental Bond"/>
+        <card number="3" name="Goreclaw, Terror of Qal Sisma"/>
+        <card number="3" name="Roaming Throne"/>
+        <card number="3" name="Surrak and Goreclaw"/>
+        <card number="3" name="Realmwalker"/>
+        <card number="3" name="Drover Grizzly"/>
+        <card number="3" name="Mother Bear"/>
+    </zone>
+</cockatrice_deck>

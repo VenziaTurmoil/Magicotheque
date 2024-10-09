@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="8" name="Island"/>
+        <card number="4" name="Port Town"/>
+        <card number="4" name="Bygone Bishop"/>
+        <card number="4" name="Unsettled Mariner"/>
+        <card number="4" name="Ghostly Prison"/>
+        <card number="2" name="Dungeon Geists"/>
+        <card number="2" name="Wall of Reverence"/>
+        <card number="2" name="Moorland Haunt"/>
+        <card number="6" name="Plains"/>
+        <card number="4" name="Midnight Haunting"/>
+        <card number="4" name="Mausoleum Wanderer"/>
+        <card number="4" name="Selfless Spirit"/>
+        <card number="2" name="Supreme Phantom"/>
+        <card number="4" name="Drogskol Captain"/>
+        <card number="2" name="Nebelgast Herald"/>
+        <card number="4" name="Rattlechains"/>
+    </zone>
+</cockatrice_deck>

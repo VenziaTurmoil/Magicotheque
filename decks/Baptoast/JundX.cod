@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Boseiju, Who Endures"/>
+        <card number="2" name="Cragcrown Pathway"/>
+        <card number="1" name="Den of the Bugbear"/>
+        <card number="4" name="Fire-Lit Thicket"/>
+        <card number="3" name="Forest"/>
+        <card number="2" name="Mountain"/>
+        <card number="2" name="Profane Tutor"/>
+        <card number="2" name="Riveteers Overlook"/>
+        <card number="1" name="Swamp"/>
+        <card number="4" name="Walking Ballista"/>
+        <card number="4" name="Ziatora's Proving Ground"/>
+        <card number="4" name="Banefire"/>
+        <card number="4" name="Ignoble Hierarch"/>
+        <card number="4" name="Unbound Flourishing"/>
+        <card number="4" name="Valakut Awakening"/>
+        <card number="3" name="Hugs, Grisly Guardian"/>
+        <card number="3" name="Fiery Emancipation"/>
+        <card number="4" name="Goldvein Hydra"/>
+        <card number="4" name="Outcaster Trailblazer"/>
+        <card number="3" name="Anger of the Gods"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Tyvar's Stand"/>
+        <card number="4" name="Wilt"/>
+        <card number="3" name="Klothys, God of Destiny"/>
+        <card number="4" name="Shatterskull Smashing"/>
+    </zone>
+</cockatrice_deck>

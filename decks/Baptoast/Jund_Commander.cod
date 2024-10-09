@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Sek'Kuar, Deathkeeper"/>
+        <card number="1" name="Accursed Marauder"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Ashnod's Altar"/>
+        <card number="1" name="Assassin's Trophy"/>
+        <card number="1" name="Bastion of Remembrance"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Blasphemous Act"/>
+        <card number="1" name="Blood Artist"/>
+        <card number="1" name="Blood Crypt"/>
+        <card number="1" name="Bojuka Bog"/>
+        <card number="1" name="Cankerbloom"/>
+        <card number="1" name="Carrion Feeder"/>
+        <card number="1" name="Cinder Glade"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Corrupted Conviction"/>
+        <card number="1" name="Cult Conscript"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Deadly Dispute"/>
+        <card number="1" name="Dragonskull Summit"/>
+        <card number="1" name="Dread Return"/>
+        <card number="1" name="Drivnod, Carnage Dominus"/>
+        <card number="1" name="Elemental Bond"/>
+        <card number="1" name="Eternal Witness"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Farseek"/>
+        <card number="1" name="Fleshbag Marauder"/>
+        <card number="4" name="Forest"/>
+        <card number="1" name="Garna, Bloodfist of Keld"/>
+        <card number="1" name="Goblin Bombardment"/>
+        <card number="1" name="Golgari Germination"/>
+        <card number="1" name="Grim Haruspex"/>
+        <card number="1" name="Grumgully, the Generous"/>
+        <card number="1" name="Gut, True Soul Zealot"/>
+        <card number="1" name="Harmonic Prodigy"/>
+        <card number="1" name="Haywire Mite"/>
+        <card number="1" name="High Market"/>
+        <card number="1" name="Honest Rutstein"/>
+        <card number="1" name="Ignoble Hierarch"/>
+        <card number="1" name="Impact Tremors"/>
+        <card number="1" name="Insidious Roots"/>
+        <card number="1" name="Judith, the Scourge Diva"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Llanowar Wastes"/>
+        <card number="1" name="Mahadi, Emporium Master"/>
+        <card number="1" name="Mayhem Devil"/>
+        <card number="1" name="Midnight Reaper"/>
+        <card number="1" name="Mirkwood Bats"/>
+        <card number="1" name="Moldervine Reclamation"/>
+        <card number="1" name="Mosswood Dreadknight // Dread Whispers"/>
+        <card number="3" name="Mountain"/>
+        <card number="1" name="Murderous Redcap"/>
+        <card number="1" name="Nether Traitor"/>
+        <card number="1" name="Overgrown Tomb"/>
+        <card number="1" name="Pawn of Ulamog"/>
+        <card number="1" name="Persistent Specimen"/>
+        <card number="1" name="Phyrexian Altar"/>
+        <card number="1" name="Phyrexian Tower"/>
+        <card number="1" name="Pitiless Plunderer"/>
+        <card number="1" name="Plaguecrafter"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Reassembling Skeleton"/>
+        <card number="1" name="Reclamation Sage"/>
+        <card number="1" name="Rise of the Witch-king"/>
+        <card number="1" name="Riveteers Ascendancy"/>
+        <card number="1" name="Rootbound Crag"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Savage Lands"/>
+        <card number="1" name="Shriekmaw"/>
+        <card number="1" name="Skullclamp"/>
+        <card number="1" name="Smoldering Marsh"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Stomping Ground"/>
+        <card number="8" name="Swamp"/>
+        <card number="1" name="Terminate"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Twisted Landscape"/>
+        <card number="1" name="Undergrowth Stadium"/>
+        <card number="1" name="Vat of Rebirth"/>
+        <card number="1" name="Victimize"/>
+        <card number="1" name="Village Rites"/>
+        <card number="1" name="Viscera Seer"/>
+        <card number="1" name="Wight of the Reliquary"/>
+        <card number="1" name="Woodland Cemetery"/>
+        <card number="1" name="Ziatora's Proving Ground"/>
+        <card number="1" name="Zulaport Cutthroat"/>
+    </zone>
+</cockatrice_deck>

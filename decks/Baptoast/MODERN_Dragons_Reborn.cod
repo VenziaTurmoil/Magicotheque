@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Atsushi, the Blazing Sky"/>
+        <card number="2" name="Blood Crypt"/>
+        <card number="2" name="Cavern of Souls"/>
+        <card number="4" name="Dragon Egg"/>
+        <card number="4" name="Dragon Tempest"/>
+        <card number="4" name="Dragon's Hoard"/>
+        <card number="3" name="Dragonlord Kolaghan"/>
+        <card number="4" name="Dragonlord's Servant"/>
+        <card number="2" name="Graven Cairns"/>
+        <card number="4" name="Haven of the Spirit Dragon"/>
+        <card number="4" name="Immersturm Predator"/>
+        <card number="7" name="Mountain"/>
+        <card number="4" name="Raucous Theater"/>
+        <card number="4" name="Slumbering Dragon"/>
+        <card number="4" name="Terror of the Peaks"/>
+        <card number="4" name="Sarkhan, Fireblood"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Blood Crypt"/>
+        <card number="4" name="Dragonskull Summit"/>
+        <card number="4" name="Fireglass Mentor"/>
+        <card number="4" name="Gev, Scaled Scorch"/>
+        <card number="4" name="Hired Claw"/>
+        <card number="4" name="Impact Tremors"/>
+        <card number="4" name="Iridescent Vinelasher"/>
+        <card number="4" name="Lightning Bolt"/>
+        <card number="6" name="Mountain"/>
+        <card number="2" name="Mudflat Village"/>
+        <card number="3" name="Ojer Axonil, Deepest Might"/>
+        <card number="3" name="Rockface Village"/>
+        <card number="4" name="Steampath Charger"/>
+        <card number="2" name="Swamp"/>
+        <card number="4" name="Valley Flamecaller"/>
+        <card number="4" name="Viashino Pyromancer"/>
+    </zone>
+</cockatrice_deck>
