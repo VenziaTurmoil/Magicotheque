@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Hengegate Pathway"/>
+        <card number="8" name="Island"/>
+        <card number="4" name="Meticulous Archive"/>
+        <card number="4" name="Mystic Gate"/>
+        <card number="5" name="Plains"/>
+        <card number="2" name="Search for Azcanta"/>
+        <card number="4" name="Static Prison"/>
+        <card number="3" name="Aether Spike"/>
+        <card number="3" name="Archmage's Charm"/>
+        <card number="4" name="Counterspell"/>
+        <card number="4" name="Glimmer of Genius"/>
+        <card number="3" name="Impulse"/>
+        <card number="4" name="Settle the Wreckage"/>
+        <card number="1" name="Approach of the Second Sun"/>
+        <card number="3" name="Supreme Verdict"/>
+        <card number="4" name="Teferi, Hero of Dominaria"/>
+    </zone>
+</cockatrice_deck>
