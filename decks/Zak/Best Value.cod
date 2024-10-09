@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Flamekin Harbinger"/>
+        <card number="4" name="Force of Savagery"/>
+        <card number="4" name="Incandescent Soulstoke"/>
+        <card number="4" name="Nova Chaser"/>
+        <card number="4" name="Omnath, Locus of the Roil"/>
+        <card number="4" name="Risen Reef"/>
+        <card number="4" name="Smokebraider"/>
+        <card number="4" name="Thunderkin Awakener"/>
+        <card number="2" name="Zektar Shrine Expedition"/>
+        <card number="4" name="Copperline Gorge"/>
+        <card number="4" name="Fire-Lit Thicket"/>
+        <card number="4" name="Grove of the Burnwillows"/>
+        <card number="2" name="Mountain"/>
+        <card number="4" name="Primal Beyond"/>
+        <card number="4" name="Riverglide Pathway"/>
+        <card number="4" name="Break Out"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Crimson Wisps"/>
+        <card number="4" name="Mass Hysteria"/>
+    </zone>
+</cockatrice_deck>

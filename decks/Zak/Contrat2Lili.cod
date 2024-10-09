@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Bringer of the Last Gift"/>
+        <card number="4" name="Carrier Thrall"/>
+        <card number="4" name="Dream Devourer"/>
+        <card number="4" name="Extractor Demon"/>
+        <card number="4" name="Greedy Freebooter"/>
+        <card number="3" name="Nirkana Revenant"/>
+        <card number="4" name="Priest of Forgotten Gods"/>
+        <card number="3" name="Taborax, Hope's Demise"/>
+        <card number="4" name="Varragoth, Bloodsky Sire"/>
+        <card number="4" name="Liliana's Contract"/>
+        <card number="24" name="Swamp"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Blade of the Oni"/>
+        <card number="1" name="Lord of the Forsaken"/>
+        <card number="2" name="Magus of the Coffers"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Amulet of Vigor"/>
+        <card number="4" name="Blood Fountain"/>
+        <card number="4" name="Crabomination"/>
+        <card number="4" name="Hollow One"/>
+        <card number="4" name="Salvage Titan"/>
+        <card number="4" name="Street Wraith"/>
+        <card number="4" name="Astral Drift"/>
+        <card number="4" name="Censor"/>
+        <card number="4" name="Ephemerate"/>
+        <card number="4" name="Scarab Feast"/>
+        <card number="4" name="Barren Moor"/>
+        <card number="4" name="Goldmire Bridge"/>
+        <card number="4" name="Lonely Sandbar"/>
+        <card number="4" name="Mistvault Bridge"/>
+        <card number="4" name="Raffine's Tower"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Banishing Light"/>
+        <card number="4" name="Canopy Vista"/>
+        <card number="3" name="Enchantress's Presence"/>
+        <card number="1" name="Indatha Triome"/>
+        <card number="3" name="Near-Death Experience"/>
+        <card number="2" name="On Thin Ice"/>
+        <card number="4" name="Sanctum Weaver"/>
+        <card number="3" name="Slumbering Keepguard"/>
+        <card number="8" name="Snow-Covered Forest"/>
+        <card number="5" name="Snow-Covered Plains"/>
+        <card number="3" name="Solitary Confinement"/>
+        <card number="4" name="Starfield of Nyx"/>
+        <card number="4" name="Sterling Grove"/>
+        <card number="3" name="Sythis, Harvest's Hand"/>
+        <card number="4" name="Utopia Sprawl"/>
+        <card number="3" name="Wall of Blood"/>
+        <card number="3" name="Worship"/>
+        <card number="2" name="Sunpetal Grove"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Eidolon of Rhetoric"/>
+        <card number="1" name="Aspect of Mongoose"/>
+        <card number="1" name="Ghostly Prison"/>
+        <card number="1" name="Hallowed Haunting"/>
+        <card number="1" name="Out of Time"/>
+        <card number="1" name="Paladin Class"/>
+        <card number="1" name="Rest in Peace"/>
+        <card number="1" name="Static Prison"/>
+        <card number="1" name="Destiny Spinner"/>
+        <card number="1" name="Alseid of Life's Bounty"/>
+        <card number="1" name="Banishing Light"/>
+        <card number="1" name="Skrelv's Hive"/>
+        <card number="1" name="Veil of Summer"/>
+    </zone>
+</cockatrice_deck>

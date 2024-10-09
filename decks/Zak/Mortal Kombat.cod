@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Avatar of Woe"/>
+        <card number="4" name="Cruel Somnophage // Can't Wake Up"/>
+        <card number="3" name="Doom Whisperer"/>
+        <card number="4" name="Egon, God of Death"/>
+        <card number="2" name="Fell Horseman // Deathly Ride"/>
+        <card number="4" name="Gorging Vulture"/>
+        <card number="4" name="Mindwrack Harpy"/>
+        <card number="4" name="Mire Triton"/>
+        <card number="4" name="Shakedown Heavy"/>
+        <card number="4" name="Stitcher's Supplier"/>
+        <card number="3" name="Mortal Combat"/>
+        <card number="16" name="Swamp"/>
+        <card number="4" name="Grim Tutor"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Angel of Suffering"/>
+        <card number="1" name="Cemetery Tampering"/>
+        <card number="4" name="Clackbridge Troll"/>
+        <card number="4" name="Eye Collector"/>
+        <card number="4" name="Oni Possession"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="The Underworld Cookbook"/>
+        <card number="4" name="Witch's Oven"/>
+        <card number="4" name="Academy Manufactor"/>
+        <card number="4" name="Asmoranomardicadaistinaculdacar"/>
+        <card number="3" name="Camellia, the Seedmiser"/>
+        <card number="4" name="Cauldron Familiar"/>
+        <card number="4" name="Gilded Goose"/>
+        <card number="3" name="Ovalchase Daredevil"/>
+        <card number="3" name="Ygra, Eater of All"/>
+        <card number="4" name="Scavenger's Talent"/>
+        <card number="3" name="Trail of Crumbs"/>
+        <card number="4" name="Darkbore Pathway"/>
+        <card number="6" name="Forest"/>
+        <card number="4" name="Gingerbread Cabin"/>
+        <card number="2" name="Swamp"/>
+        <card number="4" name="Urza's Saga"/>
+    </zone>
+</cockatrice_deck>

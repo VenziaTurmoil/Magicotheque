@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="Collector's Vault"/>
+        <card number="1" name="Demolition Stomper"/>
+        <card number="3" name="Esika's Chariot"/>
+        <card number="4" name="Parhelion II"/>
+        <card number="4" name="Skysovereign, Consul Flagship"/>
+        <card number="1" name="Thundersteel Colossus"/>
+        <card number="4" name="Greasefang, Okiba Boss"/>
+        <card number="4" name="Oswald Fiddlebender"/>
+        <card number="3" name="Ripples of Undeath"/>
+        <card number="4" name="Fetid Heath"/>
+        <card number="3" name="Geier Reach Sanitarium"/>
+        <card number="4" name="Isolated Chapel"/>
+        <card number="4" name="Shadowy Backstreet"/>
+        <card number="5" name="Swamp"/>
+        <card number="4" name="Bone Shards"/>
+        <card number="3" name="Diabolic Intent"/>
+        <card number="2" name="Smallpox"/>
+        <card number="4" name="Unearth"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Corrupted Conviction"/>
+        <card number="1" name="Macabre Waltz"/>
+        <card number="3" name="Ratadrabik of Urborg"/>
+    </zone>
+</cockatrice_deck>

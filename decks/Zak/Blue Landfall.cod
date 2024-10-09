@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Amulet of Vigor"/>
+        <card number="4" name="Lotus Cobra"/>
+        <card number="4" name="Oboro Breezecaller"/>
+        <card number="3" name="Patron of the Moon"/>
+        <card number="3" name="Roil Cartographer"/>
+        <card number="4" name="Roil Elemental"/>
+        <card number="4" name="Sakura-Tribe Scout"/>
+        <card number="3" name="Tireless Provisioner"/>
+        <card number="3" name="Khalni Heart Expedition"/>
+        <card number="4" name="Retreat to Coralhelm"/>
+        <card number="3" name="Valakut Exploration"/>
+        <card number="3" name="Forest"/>
+        <card number="2" name="Island"/>
+        <card number="4" name="Izzet Boilerworks"/>
+        <card number="4" name="Ketria Triome"/>
+        <card number="1" name="Mountain"/>
+        <card number="3" name="Oboro, Palace in the Clouds"/>
+        <card number="4" name="Simic Growth Chamber"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Grove Rumbler"/>
+        <card number="1" name="Risen Reef"/>
+        <card number="3" name="Risen Reef"/>
+        <card number="4" name="Scute Swarm"/>
+        <card number="2" name="Stone-Seeder Hierophant"/>
+    </zone>
+</cockatrice_deck>
